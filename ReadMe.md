@@ -10,3 +10,7 @@ NLP!
 
 Classififcation
 Regression
+
+# Classififcation
+
+KNN, SVM
